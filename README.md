@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - she/her
 - Chinese/English
 
-Script (Windows) for UWA student to merge audio file and video file downloaded from Lecture Recording System(need ffmpeg):
+Script (Windows) for UWA students to merge audio file and video file downloaded from Lecture Recording System(needs ffmpeg):
 ```
 @set  /p aname=Enter Audio File Name: 
 @set  /p vname=Enter Video File Name: 
