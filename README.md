@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- Bachelor of Applied Math. Postgraduate student majored in Information Technology in the University of Western Australia
+- Bachelor of Applied Math in Xiamene University. Postgraduate student majored in Information Technology in the University of Western Australia
 - Professional game player -> Game designer -> Programmer. Game is fun -> Designing game for players to play is fun -> Coding makes me like a God to create what I want!
 - My first coding project: predict house price in Perce done in JUL, 2018. At that time I just went to Australia and found the house I rent is too expensive, so I wrote a web crawler to collect house data and price from [Real Estate](https://www.realestate.com.au/buy). I also collected the house price in different regions in Perth(with differnet post code) as a variable for analyzing. Finally I found a wonderful house to rent!
 - she/her
