@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - Bachelor of Applied Math in Xiamene University. Postgraduate student majored in Information Technology in the University of Western Australia
 - Game player -> Game designer -> Programmer. Game is fun -> Designing game for players to play is fun -> Coding makes me like a God to create what I want!
-- Data Scientist + Software Engineer, Machine Learning in Finance/Computer Vision/Web backend
+- Data Scientist + Software Engineer, Machine Learning in Finance/Computer Vision/Web backend/IOT
 - she/her
 - Chinese/English
 
