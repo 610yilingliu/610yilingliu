@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 - Data Scientist + Software Engineer, Machine Learning in Finance/Computer Vision/Web backend/IOT
 - she/her
 - Chinese/English
+- ByteDance Data Scientist
 
 Script (Windows) for UWA students to merge audio file and video file downloaded from Lecture Recording System(needs ffmpeg):
 ```
