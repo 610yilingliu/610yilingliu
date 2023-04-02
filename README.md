@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 - Bachelor of Applied Math, Xiamene University; Master of Information Technology, the University of Western Australia
 - Game player -> Game designer -> Programmer. Game is fun -> Designing game for players to play is fun -> Coding makes me like a God to create what I want!
-- Data Scientist + Software Engineer, Machine Learning in Finance/Computer Vision/Web backend/IOT
 - she/her
 - Chinese/English
 - ByteDance E-commerce Data Scientist(Hangzhou 2021.8.20-2023.4.11) -> Findex Data Scientist(Perth 2023.4.24-)
