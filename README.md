@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - Data Scientist + Software Engineer, Machine Learning in Finance/Computer Vision/Web backend/IOT
 - she/her
 - Chinese/English
-- ByteDance E-commerce Data Scientist(Hangzhou 2021.8-2023.4) -> Findex Data Scientist(Perth 2023.4-)
+- ByteDance E-commerce Data Scientist(Hangzhou 2021.8.20-2023.4.11) -> Findex Data Scientist(Perth 2023.4.24-)
 
 Script (Windows) for UWA students to merge audio file and video file downloaded from Lecture Recording System(needs ffmpeg):
 ```
