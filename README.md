@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- Bachelor of Applied Math, Xiamene University; Master of Information Technology, the University of Western Australia
+- Bachelor of Applied Math, Xiamen University; Master of Information Technology, the University of Western Australia
 - Game player -> Game designer -> Programmer. Game is fun -> Designing game for players to play is fun -> Coding makes me like a God to create what I want!
 - she/her
 - Chinese/English
